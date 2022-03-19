@@ -6,7 +6,7 @@ import keyboard
 from asciicanvas import AsciiCanvas
 
 BORDER_CHARACTER = '~'
-FILL_CHARACTER = ''
+FILL_CHARACTER = '/'
 
 
 
